@@ -1,0 +1,36 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #b3b3b3;
+}
+
+.at-main-login-container {
+    background-color: #434343;
+}
+
+.at-main-login-container h2 {
+    font-size: 24px;
+}
+.at-login-button{
+    font-size: 24px;
+}
+
+.at-login-container {
+    background-color: #212121;
+}
+.at-feature-text{
+    font-size: 34px;
+}
+@media only screen and (max-width: 320px) {
+.hightlights{
+    display: none;
+}
+    .at-main-login-container h2  {
+        font-size: 16px;
+    }
+    .at-login-button{
+        font-size: 16px;
+    }
+    .at-feature-text{
+        font-size: 16px;
+    }
+}
